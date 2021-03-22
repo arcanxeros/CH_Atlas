@@ -1,0 +1,11 @@
+{
+	"[7]"  : "note_tap_color",
+	"[12]" : "held_flame_16",
+	"[30]" : "note_tap_cover_unused",
+	"[32]" : "hit_flame_8",
+	"[37]" : "sidebar_glow",
+	"[39]" : "held_flame_12",
+	"[46]" : "hit_flame_6",
+	"[63]" : "string",
+	"[65]" : "hit_flame_5"
+}

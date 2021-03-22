@@ -1,2 +1,4 @@
 # CH_Atlas
-Python script to split/stitch texture atlas for clone hero
+Command line Python script to split/stitch texture atlas for clone hero
+
+run 'py ch_atlas.py'
